@@ -7,7 +7,7 @@
     <!-- Basic Page Needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>Cypras-One page html5 template</title>
+    <title>Казино Везуйвий, здесь точно повезет!</title>
     <meta name="description" content="">
     <!-- Mobile Specific Metas
 ================================================== -->
@@ -61,13 +61,12 @@
         </div><!--Navbar header End-->
         <nav class="collapse navbar-collapse navigation" id="bs-example-navbar-collapse-1" role="navigation">
             <ul class="nav navbar-nav navbar-right ">
-                <li class="active"> <a href="#slider_part" class="page-scroll">Home </a></li>
-                <li><a href="#service"  class="page-scroll">Services</a> </li>
-                <li><a href="#portfolio" class="page-scroll" >Portfolio</a> </li>
-                <li><a href="#about" class="page-scroll">About Us </a> </li>
-                <li><a href="#team" class="page-scroll">Our Team </a> </li>
-                <li><a href="#blog" class="page-scroll">Blog</a> </li>
-                <li><a href="#contact" class="page-scroll">Contact Us</a> </li>
+                <li class="active"> <a href="#slider_part" class="page-scroll">Главная</a></li>
+                <li><a href="#service"  class="page-scroll">Наши игры</a> </li>
+                <li><a href="#portfolio" class="page-scroll" >Фото</a> </li>
+                <li><a href="#about" class="page-scroll">О казино</a> </li>
+                <li><a href="#team" class="page-scroll">Наши победители</a> </li>
+                <li><a href="#contact" class="page-scroll">Начать зарабатывать</a> </li>
             </ul>
         </nav>
     </div><!-- /.container-fluid -->
@@ -89,10 +88,10 @@
                 </div>
                 <div class="carousel-caption">
                     <div class="col-md-12 col-xs-12 text-center">
-                        <h2>Cyprass</h2>
-                        <h3 class="animated2"> <b>Creative</b> Modern and clean </h3>
+                        <h2>Везувий</h2>
+                        <h3 class="animated2"> <b>Заработок,</b> Азарт и Развлечение </h3>
                         <div class="line"></div>
-                        <p class="animated3">Unique clean design</p>
+                        <p class="animated3">Везувий - место, где всегда есть деньги!</p>
                     </div>
                 </div>
             </div>
@@ -102,10 +101,10 @@
                 </div>
                 <div class="carousel-caption">
                     <div class="col-md-12 col-xs-12 text-center">
-                        <h2>Cyprass</h2>
-                        <h3 class="animated3"> responsive <b>Flat </b>design</h3>
+                        <h2>Везувий</h2>
+                        <h3 class="animated3"> широкий спектр <b>Игр </b></h3>
                         <div class="line"></div>
-                        <p class="animated2">best choice for you</p>
+                        <p class="animated2">Это будет твой лучший выбор!</p>
                     </div>
                 </div>
             </div>
@@ -115,10 +114,10 @@
                 </div>
                 <div class="carousel-caption">
                     <div class="col-md-12 col-xs-12 text-center">
-                        <h2>Cyprass</h2>
-                        <h3 class="animated3"> We're crazy <b>coders</b></h3>
+                        <h2>Везувий</h2>
+                        <h3 class="animated3"> Это безумно классно, <b>ДОКАЗАНО</b></h3>
                         <div class="line"></div>
-                        <p class="animated2"> way to success</p>
+                        <p class="animated2">Здесть начинает путь к успеху</p>
                     </div>
                 </div>
             </div>
@@ -145,8 +144,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="feature_header text-center">
-                    <h3 class="feature_title">Our <b>Services</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Iusto provident non voluptatibus animi quidem incidunt eum, eligendi doloribus dicta.</h4>
+                    <h3 class="feature_title">Наши <b>Игры</b></h3>
+                    <h4 class="feature_sub">Это только начало, позже здесь их будет больше. <br>Хочешь иметь больше денег? Присоединяйся к нашей команде!</h4>
                     <div class="divider"></div>
                 </div>
             </div>  <!-- Col-md-12 End -->
@@ -156,33 +155,33 @@
                 <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="feature_content">
                         <i class="fa fa-lightbulb-o"></i>
-                        <h5>Lightweight</h5>
-                        <p>You can not ignore mobile devices anymore and with this theme all your visitors will be very pleased how they see your website.</p>
-                        <button class="btn btn-main"> Read More</button>
+                        <h5>Рулетка</h5>
+                        <p>Испытай удачи и выграй кучу денег, у тебя точно получится!</p>
+                        <button class="btn btn-main">Играть!</button>
                     </div>
                 </div>
                 <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="feature_content">
                         <i class="fa fa-pencil"></i>
-                        <h5>Beautiful Typrography</h5>
-                        <p>This theme integrates with WordPress in the most awesome way! Functionality is separated from style through uncreadble useful for user. </p>
-                        <button class="btn btn-main"> Read More</button>
+                        <h5>Двадцать одно</h5>
+                        <p>Испытай удачи и выграй кучу денег, у тебя точно получится! </p>
+                        <button class="btn btn-main">Играть!</button>
                     </div>
                 </div> <!-- Col-md-4 Single_feature End -->
                 <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="feature_content">
                         <i class="fa fa-cog"></i>
-                        <h5>Full time Support</h5>
-                        <p>Full Time support. Very much helpful and possesive at the same time. With all this in mind you won’t be outdated anytime soon. Really!! </p>
-                        <button class="btn btn-main"> Read More</button>
+                        <h5>Кости</h5>
+                        <p>Испытай удачи и выграй кучу денег, у тебя точно получится!</p>
+                        <button class="btn btn-main">Играть!</button>
                     </div>
                 </div> <!-- Col-md-4 Single_feature End -->
                 <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="feature_content">
                         <i class="fa fa-desktop"></i>
-                        <h5>Ultra Responsive</h5>
-                        <p>Shadow is as optimized as it gets. No useless wrappers, no double headings, everything is coded with SEO in mind. Content is KING! </p>
-                        <button class="btn btn-main"> Read More</button>
+                        <h5>BlackJack</h5>
+                        <p>Испытай удачи и выграй кучу денег, у тебя точно получится! </p>
+                        <button class="btn btn-main">Играть!</button>
                     </div>
                 </div> <!-- Col-md-4 Single_feature End -->
                 <!-- <button class="btn btn-main"> Read More</button> -->
@@ -197,8 +196,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="feature_header text-center">
-                    <h3 class="feature_title">Our <b>Skills</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Iusto provident non voluptatibus animi quidem incidunt eum, eligendi doloribus dicta.</h4>
+                    <h3 class="feature_title">Наша <b>Статистика</b></h3>
+                    <h4 class="feature_sub">Очень важно, чтобы игроки знали статистику нашего казино. <br>На данный момент мы имеем вот такие цифры:</h4>
                     <div class="divider"></div>
                 </div>
             </div>  <!-- Col-md-12 End -->
@@ -208,20 +207,20 @@
                 <!-- Left about end -->
                 <div class="col-md-6">
                     <div class="single-progress">
-                        <label > Web design <span>40%</span></label>
+                        <label > Нас посещают ежедневно <span>5800</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-                                <span class="sr-only">40% Complete (success)</span>
+                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                                <span class="sr-only">70% максимальной нагрузки</span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="single-progress">
-                        <label > Web design <span>90%</span></label>
+                        <label > Процент проигрыша <span>48%</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
-                                <span class="sr-only">20% Complete</span>
+                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                                <span class="sr-only">48% игр</span>
                             </div>
                         </div>
                     </div>
@@ -232,20 +231,20 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="single-progress">
-                        <label > Web design <span>60%</span></label>
+                        <label > Процент выигриша <span>52%</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                <span class="sr-only">60% Complete (warning)</span>
+                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                                <span class="sr-only">52% игр</span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="single-progress">
-                        <label > Web design <span>80%</span></label>
+                        <label > Честные коэфициенты <span>100%</span></label>
                         <div class="progress">
                             <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-                                <span class="sr-only">80% Complete (danger)</span>
+                                <span class="sr-only">100% честность</span>
                             </div>
                         </div>
                     </div>
@@ -263,8 +262,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="feature_header text-center">
-                    <h3 class="feature_title">Our <b>Works</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                    <h3 class="feature_title">Ты боишься поставить и <b>победить</b>?</h3>
+                    <h4 class="feature_sub"> Посмотри, к чему ты придешь, если преодалеешь своих страхи! </h4>
                     <div class="divider"></div>
                 </div>
             </div>  <!-- Col-md-12 End -->
@@ -273,11 +272,7 @@
 
 
     <div id="isotope-filter" class="skew3 text-center">
-        <a data-filter="*"  href="#" class="active ">All</a>
-        <a data-filter=".identity"  href="#" class="">Identity</a>
-        <a data-filter=".web-design" href="#"  class="">Web Design</a>
-        <a data-filter=".graphic"  href="#" class="">Graphic</a>
-        <a data-filter=".logo"  href="#" class="">Photography</a>
+        <a data-filter="*"  href="#" class="active ">Кликай сюда и любуйся</a>
     </div>
     <div class="clearfix"></div>
     <div class="text-center ">
@@ -285,144 +280,48 @@
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio identity web-design">
                 <figure>
                     <img src="../../resources/images/portfolio/p1.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p1.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo graphic">
                 <figure>
                     <img src="../../resources/images/portfolio/p2.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p2.jpg"  data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio graphic logo">
                 <figure>
                     <img src="../../resources/images/portfolio/p3.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p3.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio web-design identity">
                 <figure>
                     <img src="../../resources/images/portfolio/p7.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p7.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo web-design">
                 <figure>
                     <img src="../../resources/images/portfolio/p5.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p5.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo graphic">
                 <figure>
                     <img src="../../resources/images/portfolio/p6.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p6.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio graphic identity">
                 <figure>
                     <img src="../../resources/images/portfolio/p3.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p3.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio web-design graphic">
                 <figure>
                     <img src="../../resources/images/portfolio/p7.jpg" alt="" />
-                    <figcaption>
-                        <h5>Creative Zoe</h5>
-                        <p class="links">
-                            <a href="portfolio-single.html"> <i class="fa fa-link"></i></a>
-                            <a href="../../resources/images/portfolio/p7.jpg" data-rel="prettyPhoto" class="img-responsive">
-                                <i class="fa fa-plus"></i>
-                            </a>
-                        </p>
-                        <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        </p>
-                    </figcaption>
                 </figure>
             </li>
 
@@ -940,188 +839,6 @@
 </section>  <!-- Pricing Section End -->
 <!-- Pricing Table End -->
 
-<!-- bLOG Start -->
-<section id="blog">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="feature_header text-center">
-                    <h3 class="feature_title">Our <b>Blog</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
-                    <div class="divider"></div>
-                </div>
-            </div>  <!-- Col-md-12 End -->
-        </div>
-        <div class="row">
-            <div class="blog-timeline">
-                <div id="owl-blog" class="owl-carousel owl-theme">
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic3.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic4.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"> <h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic2.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic5.jpg" alt="" class="img-responsive"> </a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic1.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic3.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic2.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic4.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic1.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                    <div class="item ">
-                        <div class="single_blog">
-                            <div class="post_img text-center">
-                                <a href="blog-single.html"><img src="../../resources/images/blog/pic5.jpg" alt="" class="img-responsive"></a>
-                                <div class="post-date">
-                                    <span>25</span> 6
-                                </div>
-                            </div>
-                            <a href="blog-single.html"><h4>Lorem ipsum dolor sit amet</h4></a>
-                            <ul class="list-inline">
-                                <li> <i class="fa fa-pencil"></i> John Smith</li>
-                                <li> <i class="fa fa-comments"></i> 12</li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus provident quae maxime consequuntur atque.</p>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- blog Timeline End -->
-        </div>
-    </div>
-</section>
-<!-- bLOG End -->
-
 <!-- Testimonial Start -->
 
 <section id="testimonial" class="wow fadeInUp">
@@ -1307,7 +1024,6 @@
                             <li><a href="#about">Home</a></li>
                             <li><a href="#service">Service</a></li>
                             <li><a href="#portfolio">Portfolio</a></li>
-                            <li><a href="#blog">Blog</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
