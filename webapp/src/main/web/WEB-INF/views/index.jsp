@@ -56,7 +56,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">
-                <img src="../../resources/images/logo2.png" alt="">
+                <h4>Везувий</h4>
             </a>
         </div><!--Navbar header End-->
         <nav class="collapse navbar-collapse navigation" id="bs-example-navbar-collapse-1" role="navigation">
@@ -209,7 +209,7 @@
                     <div class="single-progress">
                         <label > Нас посещают ежедневно <span>5800</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">
                                 <span class="sr-only">70% максимальной нагрузки</span>
                             </div>
                         </div>
@@ -219,7 +219,7 @@
                     <div class="single-progress">
                         <label > Процент проигрыша <span>48%</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100" style="width: 48%">
                                 <span class="sr-only">48% игр</span>
                             </div>
                         </div>
@@ -233,7 +233,7 @@
                     <div class="single-progress">
                         <label > Процент выигриша <span>52%</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100" style="width: 52%">
                                 <span class="sr-only">52% игр</span>
                             </div>
                         </div>
@@ -243,7 +243,7 @@
                     <div class="single-progress">
                         <label > Честные коэфициенты <span>100%</span></label>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                            <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
                                 <span class="sr-only">100% честность</span>
                             </div>
                         </div>
@@ -283,45 +283,22 @@
                 </figure>
             </li>
 
-            <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo graphic">
-                <figure>
-                    <img src="../../resources/images/portfolio/p2.jpg" alt="" />
-                </figure>
-            </li>
-
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio graphic logo">
                 <figure>
                     <img src="../../resources/images/portfolio/p3.jpg" alt="" />
                 </figure>
             </li>
 
-            <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio web-design identity">
-                <figure>
-                    <img src="../../resources/images/portfolio/p7.jpg" alt="" />
-                </figure>
-            </li>
 
-            <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo web-design">
+            <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo graphic">
                 <figure>
-                    <img src="../../resources/images/portfolio/p5.jpg" alt="" />
+                    <img src="../../resources/images/portfolio/p4.jpg" alt="" />
                 </figure>
             </li>
 
             <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio logo graphic">
                 <figure>
                     <img src="../../resources/images/portfolio/p6.jpg" alt="" />
-                </figure>
-            </li>
-
-            <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio graphic identity">
-                <figure>
-                    <img src="../../resources/images/portfolio/p3.jpg" alt="" />
-                </figure>
-            </li>
-
-            <li class="col-xs-12 col-sm-6 col-md-3 single-portfolio web-design graphic">
-                <figure>
-                    <img src="../../resources/images/portfolio/p7.jpg" alt="" />
                 </figure>
             </li>
 
@@ -337,8 +314,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="feature_header text-center">
-                    <h3 class="feature_title">What <b>We do</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                    <h3 class="feature_title">Чем мы <b>занимаемся</b>?</h3>
+                    <h4 class="feature_sub"> Чтобы понять, как мы работаем, представляем тебе нашу схему! </h4>
                     <div class="divider"></div>
                 </div>
             </div>
@@ -354,7 +331,7 @@
                                         <i class="fa fa-laptop"></i>
                                     </div>
                                 </div>
-                                <h4>Web</h4>
+                                <h4>Ознакомление</h4>
                             </a>
                         </li>
                         <li role="presentation" >
@@ -364,7 +341,7 @@
                                         <i class="fa fa-send"></i>
                                     </div>
                                 </div>
-                                <h4>Email Marketing</h4>
+                                <h4>Как начать?</h4>
                             </a>
                         </li>
                         <li role="presentation" >
@@ -374,7 +351,7 @@
                                         <i class="fa fa-heart"></i>
                                     </div>
                                 </div>
-                                <h4>Graphics</h4>
+                                <h4>Что за игры?</h4>
                             </a>
                         </li>
                         <li role="presentation" >
@@ -384,7 +361,7 @@
                                         <i class="fa fa-camera"></i>
                                     </div>
                                 </div>
-                                <h4>Photography</h4>
+                                <h4>Правила</h4>
                             </a>
                         </li>
                         <li role="presentation" >
@@ -394,7 +371,7 @@
                                         <i class="fa fa-send"></i>
                                     </div>
                                 </div>
-                                <h4>ios application</h4>
+                                <h4>Вывод денежных средств</h4>
                             </a>
                         </li>
                     </ul>
@@ -407,14 +384,13 @@
                             </div>
                             <div class="col-md-12 col-sm-9">
                                 <div class="c-tab">
-                                    <h4>Web Design and Development</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus praesentium dolore sequi excepturi recusandae reprehenderit, distinctio.</p>
+                                    <h4>Добро пожаловать в наше казино!</h4>
+                                    <p>Наше казино такое такое и мы занимаемся этим этим</p>
                                     <br>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorum, quisquam eum eaque. Excepturi nisi necessitatibus, inventore explicabo corporis expedita fugit aspernatur harum reprehenderit temporibus, pariatur esse laborum qui quisquam.
+                                        Здесь собраны самые интересные и азартные игры, только здесь вы можете сорвать большой куш и не беспокоится, что вас могут обмануть, именно здесь все богатые люди удваивают свои деньги!
                                     </p>
                                     <br>
-                                    <a href="#"> Learn More</a>
                                 </div>
                             </div>
 
@@ -425,14 +401,13 @@
                             </div>
                             <div class="col-md-12 col-sm-9">
                                 <div class="c-tab">
-                                    <h4>Email and Socail Marketing</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus praesentium dolore sequi excepturi recusandae reprehenderit, distinctio.</p>
+                                    <h4>Как начать?</h4>
+                                    <p>Начать не так тяжело, как кажется!</p>
                                     <br>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorum, quisquam eum eaque. Excepturi nisi necessitatibus, inventore explicabo corporis expedita fugit aspernatur harum reprehenderit temporibus, pariatur esse laborum qui quisquam.
+                                        Достаточно пройти регистрацию, зайти в личный кабинет, пополнить счет и выбрать игру. А дальше вас ждет море увлечения, азарта и побед, не верите? Убедитесь сами!
                                     </p>
                                     <br>
-                                    <a href="#"> Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -442,14 +417,13 @@
                             </div>
                             <div class="col-md-12 col-sm-9">
                                 <div class="c-tab">
-                                    <h4>Graphics Brand Identity</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus praesentium dolore sequi excepturi recusandae reprehenderit, distinctio.</p>
+                                    <h4>Мы представляем широкий спектр игр!</h4>
+                                    <p>Каждая игра отредактирована так, что любой желающий, может одержать победу в ней!</p>
                                     <br>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorum, quisquam eum eaque. Excepturi nisi necessitatibus, inventore explicabo corporis expedita fugit aspernatur harum reprehenderit temporibus, pariatur esse laborum qui quisquam.
+                                        Наши игры: Рулетка, Black Jack, Кости и еще что-то там
                                     </p>
                                     <br>
-                                    <a href="#"> Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -459,14 +433,13 @@
                             </div>
                             <div class="col-md-12 col-sm-9">
                                 <div class="c-tab">
-                                    <h4>Photography Design</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus praesentium dolore sequi excepturi recusandae reprehenderit, distinctio.</p>
+                                    <h4>Правила игр</h4>
+                                    <p>Здесь вы можете узнать все правила наших игр.</p>
                                     <br>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorum, quisquam eum eaque. Excepturi nisi necessitatibus, inventore explicabo corporis expedita fugit aspernatur harum reprehenderit temporibus, pariatur esse laborum qui quisquam.
+                                        Правила такие-то на такую игру ляля тополя
                                     </p>
                                     <br>
-                                    <a href="#"> Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -476,14 +449,13 @@
                             </div>
                             <div class="col-md-12 col-sm-9">
                                 <div class="c-tab">
-                                    <h4>ios application</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus praesentium dolore sequi excepturi recusandae reprehenderit, distinctio.</p>
+                                    <h4>Вывод денежных средств</h4>
+                                    <p>Вывести выигранные деньги намного легче, чем вам кажется</p>
                                     <br>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorum, quisquam eum eaque. Excepturi nisi necessitatibus, inventore explicabo corporis expedita fugit aspernatur harum reprehenderit temporibus, pariatur esse laborum qui quisquam.
+                                        Просто пройдите в личный кабинет, выберети вывод средств, и выведи их через удобный вам сервис!
                                     </p>
                                     <br>
-                                    <a href="#"> Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -508,20 +480,18 @@
                     <div class="graph">
                         <div class="graph-left-side">
                             <div class="graph-left-container">
-                                <div class="graph-left-half"> </div>
                             </div>
                         </div>
                         <div class="graph-right-side">
                             <div class="graph-right-container">
-                                <div class="graph-right-half"></div>
                             </div>
                         </div>
                         <i class="fa fa-thumbs-o-up fa-3x fw"></i>
                         <div class="facts-wrap-num">
-                            <span class="counter">87</span>
+                            <span class="counter">5876</span>
                         </div>
                     </div>
-                    <h6>Clients</h6>
+                    <h6>Клиентов</h6>
                 </div>
             </div>
             <div class="col-md-3 col-xs-12 col-sm-6 columns">
@@ -529,18 +499,16 @@
                     <div class="graph">
                         <div class="graph-left-side">
                             <div class="graph-left-container">
-                                <div class="graph-left-half"> </div>
                             </div>
                         </div>
                         <div class="graph-right-side">
                             <div class="graph-right-container">
-                                <div class="graph-right-half"></div>
                             </div>
                         </div>
                         <i class="fa fa-gift fa-3x fw"></i>
-                        <div class="facts-wrap-num"><span class="counter">25</span></div>
+                        <div class="facts-wrap-num"><span class="counter">576321</span></div>
                     </div>
-                    <h6>Awards</h6>
+                    <h6>Выведено денежных средств</h6>
                 </div>
             </div>
             <div class="col-md-3 col-xs-12 col-sm-6 columns">
@@ -548,18 +516,16 @@
                     <div class="graph">
                         <div class="graph-left-side">
                             <div class="graph-left-container">
-                                <div class="graph-left-half"> </div>
                             </div>
                         </div>
                         <div class="graph-right-side">
                             <div class="graph-right-container">
-                                <div class="graph-right-half"></div>
                             </div>
                         </div>
                         <i class="fa fa-check-square-o fa-3x fw"></i>
-                        <div class="facts-wrap-num"><span class="counter">68</span></div>
+                        <div class="facts-wrap-num"><span class="counter">3426</span></div>
                     </div>
-                    <h6>Projects</h6>
+                    <h6>Выигранных игр</h6>
                 </div>
             </div>
             <div class="col-md-3 col-xs-12 col-sm-6 columns">
@@ -567,18 +533,16 @@
                     <div class="graph">
                         <div class="graph-left-side">
                             <div class="graph-left-container">
-                                <div class="graph-left-half"> </div>
                             </div>
                         </div>
                         <div class="graph-right-side">
                             <div class="graph-right-container">
-                                <div class="graph-right-half"></div>
                             </div>
                         </div>
                         <i class="fa fa-envelope-o fa-3x fw"></i>
-                        <div class="facts-wrap-num"><span class="counter">46</span></div>
+                        <div class="facts-wrap-num"><span class="counter">326</span></div>
                     </div>
-                    <h6>Mails</h6>
+                    <h6>Благодарности</h6>
                 </div>
             </div>
         </div> <!-- Conatainer End -->
@@ -606,41 +570,13 @@
                             <div class="panel-heading active" role="tab" id="headingOne">
                                 <h4 class="panel-title">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Heading One
+                                        Ролик
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body p1">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel panel-default">
-                            <div class="panel-heading " role="tab" id="headingTwo">
-                                <h4 class="panel-title">
-                                    <a class="accordion-toggle collapsed"  data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Heading Two
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                <div class="panel-body p1">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel panel-default">
-                            <div class="panel-heading " role="tab" id="headingThree">
-                                <h4 class="panel-title">
-                                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Heading Three
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                <div class="panel-body p1">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+                                    Ролик о Везувий
                                 </div>
                             </div>
                         </div>
@@ -656,8 +592,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="feature_header text-center">
-                    <h3 class="feature_title">Our <b>Team Members</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                    <h3 class="feature_title">Наши <b>победители</b>!</h3>
+                    <h4 class="feature_sub">Люди, которые не бояться рисковать и выигрывают крупные деньги!</h4>
                     <div class="divider"></div>
                 </div>
             </div>  <!-- Col-md-12 End -->
@@ -668,18 +604,11 @@
                         <div class="overlay-hover">
                             <img src="../../resources/images/team/pic6.jpg" alt="" class="img-responsive">
                             <div class="overlay-effect">
-                                <ul class="social list-inline">
-                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href=""><i class="fa fa-pinterest"></i></a></li>
-                                    <li><a href=""><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                <p>Выиграл столько бабок</p>
                             </div>
                         </div>
-                        <h3>John Abraham</h3>
-                        <h5>Chief Designer</h5>
+                        <h3>Иван Иванов</h3>
+                        <h5>Казань</h5>
                     </div>
                 </div>  <!-- item wrapper end -->
                 <div class="item text-center">
@@ -687,18 +616,11 @@
                         <div class="overlay-hover">
                             <img src="../../resources/images/team/pic1.jpg" alt="" class="img-responsive">
                             <div class="overlay-effect">
-                                <ul class="social list-inline">
-                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href=""><i class="fa fa-pinterest"></i></a></li>
-                                    <li><a href=""><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                <p>Выиграл столько бабок</p>
                             </div>
                         </div>
-                        <h3>John Abraham</h3>
-                        <h5>Chief Designer</h5>
+                        <h3>Иван Иванов</h3>
+                        <h5>Казань</h5>
                     </div>
                 </div>  <!-- item wrapper end -->
                 <div class="item text-center">
@@ -706,18 +628,11 @@
                         <div class="overlay-hover">
                             <img src="../../resources/images/team/pic2.jpg" alt="" class="img-responsive">
                             <div class="overlay-effect">
-                                <ul class="social list-inline">
-                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href=""><i class="fa fa-pinterest"></i></a></li>
-                                    <li><a href=""><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                <p>Выиграл столько бабок</p>
                             </div>
                         </div>
-                        <h3>John Abraham</h3>
-                        <h5>Chief Designer</h5>
+                        <h3>Иван Иванов</h3>
+                        <h5>Казань</h5>
                     </div>
                 </div>  <!-- item wrapper end -->
                 <div class="item text-center">
@@ -725,18 +640,11 @@
                         <div class="overlay-hover">
                             <img src="../../resources/images/team/pic5.jpg" alt="" class="img-responsive">
                             <div class="overlay-effect">
-                                <ul class="social list-inline">
-                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href=""><i class="fa fa-pinterest"></i></a></li>
-                                    <li><a href=""><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                <p>Выиграл столько бабок</p>
                             </div>
                         </div>
-                        <h3>John Abraham</h3>
-                        <h5>Chief Designer</h5>
+                        <h3>Иван Иванов</h3>
+                        <h5>Казань</h5>
                     </div>
                 </div>  <!-- item wrapper end -->
                 <div class="item text-center">
@@ -744,18 +652,11 @@
                         <div class="overlay-hover">
                             <img src="../../resources/images/team/pic4.jpg" alt="" class="img-responsive">
                             <div class="overlay-effect">
-                                <ul class="social list-inline">
-                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href=""><i class="fa fa-pinterest"></i></a></li>
-                                    <li><a href=""><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus dignissimos, maxime ea excepturi veritatis itaque. </p>
+                                <p>Выиграл столько бабок</p>
                             </div>
                         </div>
-                        <h3>John Abraham</h3>
-                        <h5>Chief Designer</h5>
+                        <h3>Иван Иванов</h3>
+                        <h5>Казань</h5>
                     </div>
                 </div>  <!-- item wrapper end -->
 
@@ -772,190 +673,6 @@
 
 <div class="clearfix"></div>
 
-<!-- Pricing Table Start -->
-<section id="pricing_table" class="pricing_overlay">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="feature_header text-center">
-                    <h3 class="feature_title">Our <b>Pricing</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
-                    <div class="divider"></div>
-                </div>
-            </div>  <!-- Col-md-12 End -->
-
-            <div class="text-center pricing">
-                <div class="col-md-4 col-xs-12 col-sm-12">
-                    <div class="single_table">
-                        <div class="plan_wraper"></div>
-                        <ul>
-                            <li class="plan">Standard <br><span>Monthly plan</span></li>
-                            <li class="price"> 29 <span>$</span></li>
-                            <li> 20 gb disk Space</li>
-                            <li>Monthly Bandwidth</li>
-                            <li>Unlimited Users</li>
-                            <li> 150 Domains</li>
-                            <li> 150 Email Account</li>
-                            <li> Automated Cloud Backup</li>
-                            <li class="price_button"> <button class="btn btn-main">Sign UP Now!</button></li>
-                        </ul>
-                    </div>
-                </div> <!-- Single col-md-4 End -->
-                <div class="col-md-4 col-xs-12 col-sm-12">
-                    <div class="single_table grey_bg  ">
-                        <div class="plan_wraper"></div>
-                        <ul>
-                            <li class="plan">Unlimited  <br><span>Monthly plan</span></li>
-                            <li class="price"> 29 <span>$</span></li>
-                            <li> 20 gb disk Space</li>
-                            <li>Monthly Bandwidth</li>
-                            <li>Unlimited Users</li>
-                            <li> 150 Domains</li>
-                            <li> 150 Email Account</li>
-                            <li> Automated Cloud Backup</li>
-                            <li class="price_button"> <button class="btn btn-main featured">Sign UP Now!</button></li>
-                        </ul>
-                    </div>
-                </div> <!-- Single col-md-4 End -->
-                <div class="col-md-4 col-xs-12 col-sm-12">
-                    <div class="single_table dark_bg">
-                        <div class="plan_wraper"></div>
-                        <ul>
-                            <li class="plan">Premium  <br><span>Monthly plan</span></li>
-                            <li class="price"> 29 <span>$</span></li>
-                            <li> 20 gb disk Space</li>
-                            <li>Monthly Bandwidth</li>
-                            <li>Unlimited Users</li>
-                            <li> 150 Domains</li>
-                            <li> 150 Email Account</li>
-                            <li> Automated Cloud Backup</li>
-                            <li class="price_button"> <button class="btn btn-main">Sign UP Now!</button></li>
-                        </ul>
-                    </div>
-                </div> <!-- Single col-md-4 End -->
-            </div>
-        </div>
-    </div>
-</section>  <!-- Pricing Section End -->
-<!-- Pricing Table End -->
-
-<!-- Testimonial Start -->
-
-<section id="testimonial" class="wow fadeInUp">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="feature_header text-center">
-                    <h3 class="feature_title"><b>Customers</b> Feedback</h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
-                    <div class="divider"></div>
-                </div>
-            </div>  <!-- Col-md-12 End -->
-        </div>
-        <div class="row">
-            <div id="testimonial-carousel" class="owl-carousel owl-theme text-center testimonial-slide">
-                <div class="item">
-                    <div class="testimonial-thumb">
-                        <img class="img-circle" src="../../resources/images/team/pic1.jpg" alt="testimonial" >
-                    </div>
-                    <div class="testimonial-content">
-                        <h3 class="name">Katee Nureen <span>Exectuive Director</span></h3>
-                        <p class="testimonial-text">
-                            iLorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="testimonial-thumb">
-                        <img class="img-circle" src="../../resources/images/testimonial2.png" alt="testimonial" >
-                    </div>
-                    <div class="testimonial-content">
-                        <h3 class="name">Angry Figer <span>Frozen Director</span></h3>
-                        <p class="testimonial-text">
-                            Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="testimonial-thumb">
-                        <img class="img-circle" src="../../resources/images/team/pic6.jpg" alt="testimonial" >
-                    </div>
-                    <div class="testimonial-content">
-                        <h3 class="name wow bounceInLeft">Monica Lunaxy<span>Sales Manager</span></h3>
-                        <p class="testimonial-text">
-                            Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!-- Navigation start -->
-            <div class="customNavigation cyprass-carousel-controller">
-                <a class="prev left">
-                    <i class="fa fa-chevron-left"></i>
-                </a>
-                <a class="next right">
-                    <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-            <!-- Navigation ENd -->
-        </div>
-    </div> <!-- Row End -->
-</section> <!-- Section Testimonial End -->
-
-<!-- Testimonial Area End -->
-
-<!-- Client Carousel Start -->
-<section id="client">
-    <div class="container">
-        <!-- <h2 class="text-center wow slideInLeft"> Our Respectable client</h2> -->
-        <div class="row wow fadeInLeft">
-            <div id="client-carousel" class="col-sm-12 owl-carousel owl-theme text-center client-carousel">
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client1.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client2.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client3.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client4.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client5.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client6.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client7.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-                <div class="item client_logo">
-                    <a href="#">
-                        <img src="../../resources/images/clients/client8.png" alt="client" class="img-responsive">
-                    </a>
-                </div>
-            </div><!-- Owl carousel end -->
-        </div><!-- Main row end -->
-    </div>
-</section>
-<!-- Client Carousel End -->
-
 <!-- Conatct Area Start-->
 
 <section id="contact">
@@ -963,8 +680,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="feature_header text-center">
-                    <h3 class="feature_title">Keep In <b>touch</b></h3>
-                    <h4 class="feature_sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                    <h3 class="feature_title">Начни зарабатывать в одно <b>касание</b></h3>
+                    <h4 class="feature_sub">Заполни данные для регистрации или зайти под уже имеющимся логином и паролем</h4>
                     <div class="divider"></div>
                 </div>
             </div>
@@ -973,135 +690,39 @@
             <div class="contact_full">
                 <div class="col-md-6 left">
                     <div class="left_contact">
-                        <form action="role">
+                        <form action="/register" method="post">
                             <div class="form-level">
-                                <input name="name" placeholder="Name" id="name"  value="" type="text" class="input-block">
-                                <span class="form-icon fa fa-user"></span>
-                            </div>
-                            <div class="form-level">
-                                <input name="email" placeholder="Email" id="mail" class="input-block" value="" type="email">
+                                <input name="email" placeholder="Email" id="email" class="input-block" value="" type="email">
                                 <span class="form-icon fa fa-envelope-o"></span>
                             </div>
                             <div class="form-level">
-                                <input name="name" placeholder="Phone" id="phone" class="input-block" value="" type="text">
+                                <input name="password" placeholder="Пароль" id="password" class="input-block" value="" type="password">
                                 <span class="form-icon fa fa-phone"></span>
                             </div>
+                            <button  name="submit" id="submit" value="" type="submit" class="btn btn-main featured">Регистрация</button>
                         </form>
                     </div>
                 </div>
 
                 <div class="col-md-6 right">
-                    <div class="form-level">
-                        <textarea name="" id="messege"  rows="5" class="textarea-block" placeholder="message"></textarea>
-                        <span class="form-icon fa fa-pencil"></span>
+                    <div class="right_contact">
+                        <form action="/j_spring_security_check" method="post">
+                            <div class="form-level">
+                                <input size="50" name="j_username" id="j_username" value="" type="text" class="form-control" placeholder="Email">
+                                <span class="form-icon fa fa-envelope-o"></span>
+                            </div>
+                            <div class="form-level">
+                                <input size="50" name="j_password" id="j_password" value="" type="password" class="form-control" placeholder="Password">
+                                <span class="form-icon fa fa-phone"></span>
+                            </div>
+                            <button class="btn btn-main featured">Войти</button>
+                        </form>
                     </div>
-                </div>
-                <div class="col-md-12 text-center">
-                    <button class="btn btn-main featured">Submit Now</button>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-<div id="g-map" class="no-padding">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="map" id="map"></div>
-        </div>
-    </div>
-</div>
-<!-- Footer Area Start -->
-
-<section id="footer">
-    <div class="footer_top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <h3 class="menu_head">Main Menu</h3>
-                    <div class="footer_menu">
-                        <ul>
-                            <li><a href="#about">Home</a></li>
-                            <li><a href="#service">Service</a></li>
-                            <li><a href="#portfolio">Portfolio</a></li>
-                            <li><a href="#contact">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <h3 class="menu_head">Useful Links</h3>
-                    <div class="footer_menu">
-                        <ul>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#"> inventore natus ullam eum</a></li>
-                            <li><a href="#">consectetur adipisicing elit.</a></li>
-                            <li><a href="#">Frequently Asked Questions</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <h3 class="menu_head">Contact us</h3>
-                    <div class="footer_menu_contact">
-                        <ul>
-                            <li> <i class="fa fa-home"></i>
-                                <span> 12 Segun Bagicha, 10th Floor </span></li>
-                            <li><i class="fa fa-globe"></i>
-                                <span> +880-12345678</span></li>
-                            <li><i class="fa fa-phone"></i>
-                                <span> info@mail.com</span></li>
-                            <li><i class="fa fa-map-marker"></i>
-                                <span> www.web.com</span></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <h3 class="menu_head">Tags</h3>
-                    <div class="footer_menu tags">
-                        <a href="#"> Design</a>
-                        <a href="#"> User Interface</a>
-                        <a href="#"> Graphics</a>
-                        <a href="#"> Web Design</a>
-                        <a href="#"> Development</a>
-                        <a href="#"> Asp.net</a>
-                        <a href="#"> Bootstrap</a>
-                        <a href="#"> Joomla</a>
-                        <a href="#"> SEO</a>
-                        <a href="#"> Wordepress</a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-    <div class="footer_b">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="footer_bottom">
-                        <p class="text-block"> &copy; Copyright reserved to <span>Cyprass </span></p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="footer_mid pull-right">
-                        <ul class="social-contact list-inline">
-                            <li> <a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li> <a href="#"><i class="fa fa-rss"></i></a></li>
-                            <li> <a href="#"><i class="fa fa-google-plus"></i> </a></li>
-                            <li><a href="#"> <i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"> <i class="fa fa-pinterest"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Footer Area End -->
 
 <!-- Back To Top Button -->
 <div id="back-top">

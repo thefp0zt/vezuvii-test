@@ -77,7 +77,7 @@ public class UserManager {
         preparedStatement.setString(1,user.getNickname());
         preparedStatement.setString(2,user.getEmail());
         preparedStatement.setString(3,user.getPassword());
-        preparedStatement.setString(4,user.getAuthorities().toString());
+        preparedStatement.setString(4,"ROLE_USER");
         preparedStatement.executeUpdate();
 
         ResultSet resultSet = preparedStatement.getGeneratedKeys();

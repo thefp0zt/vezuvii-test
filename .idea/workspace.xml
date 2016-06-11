@@ -2,9 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24fc2bbe-7384-479f-aa9d-16537a7dedca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/blog-single.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/protfolio-single.jsp" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\views\blog-single.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\views\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\views\portfolio-single.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\team\pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\WEB-INF\views\blog-single.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\WEB-INF\views\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\WEB-INF\views\portfolio-single.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\resources\images\slider\s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\resources\images\slider\s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\resources\images\slider\s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\resources\images\team\pic3.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/classes/com/vezuvii/webapp/controller/MainController.class" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/classes/com/vezuvii/webapp/controller/MainController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/controller/MainController.class" afterPath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/controller/MainController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/classes/com/vezuvii/webapp/dao/UserManager.class" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/classes/com/vezuvii/webapp/dao/UserManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/dao/UserManager.class" afterPath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/dao/UserManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/banner.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/banner.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p1.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p1.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/p10.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/p10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/p10.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/p10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p2.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p2.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/p3.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/p3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p3.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/p3.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/p3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p3.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p4.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p4.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/p5.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/banner/p5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p5.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/p5.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/banner/p5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p5.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p6.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p6.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p7.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/portfolio/p7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p7.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic1.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic1.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic2.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic2.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic4.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic4.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic5.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic5.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic6.jpg" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/resources/images/team/pic6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic6.jpg" afterPath="$PROJECT_DIR$/webapp/src/main/web/resources/images/team/pic6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" afterPath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java" afterPath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/spring/application-security.xml" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/spring/application-security.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/views/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/vezuvii/WEB-INF/views/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="com.vezuvii.iws" />
@@ -53,21 +107,49 @@
         <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application-security.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.81163436">
+              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.10964083">
-              <caret line="323" column="80" selection-start-line="323" selection-start-column="80" selection-end-line="323" selection-end-column="80" />
+            <state vertical-scroll-proportion="-2.0">
+              <caret line="708" column="47" selection-start-line="708" selection-start-column="47" selection-end-line="708" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -104,19 +186,19 @@
       <list>
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/root-context.xml" />
-        <option value="$PROJECT_DIR$/webapp/pom.xml" />
         <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/CustomLogoutSuccessHandler.java" />
-        <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" />
         <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/services/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/CustomUserDetails.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java" />
-        <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/resources/css/text.css" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/blog-single.jsp" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/protfolio-single.jsp" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java" />
+        <option value="$PROJECT_DIR$/webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" />
       </list>
     </option>
   </component>
@@ -170,7 +252,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -348,44 +432,6 @@
               <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -547,8 +593,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -562,6 +606,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Tomcat Server.TomCat">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
@@ -860,10 +905,13 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Unknown" factoryName="Unknown">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -949,59 +997,71 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="24fc2bbe-7384-479f-aa9d-16537a7dedca" name="Default" comment="" />
       <created>1465560087217</created>
       <option name="number" value="Default" />
       <updated>1465560087217</updated>
-      <workItem from="1465560090722" duration="11118000" />
+      <workItem from="1465560090722" duration="11176000" />
+      <workItem from="1465599635801" duration="10593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11118000" />
+    <option name="totallyTimeSpent" value="21769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32026145" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2761438" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24659607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39542484" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1010,6 +1070,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1030,15 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6908127">
           <caret line="179" column="21" selection-start-line="18" selection-start-column="4" selection-end-line="179" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5017668">
-          <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="179" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,9 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="143" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,9 +1139,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1090,59 +1152,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/a0792bb6/3e24f3dc-f210-4232-8acd-8fc200b7e54f/vezuvii..users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/CustomUserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61130136">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../marketing-group/models/src/main/java/com/javalab/marketing/models/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46575344">
           <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.13527398">
-          <caret line="79" column="70" selection-start-line="79" selection-start-column="70" selection-end-line="79" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1477#1483#0" expanded="true" />
-            <marker date="1465564357109" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
-            <marker date="1465564357109" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
-            <marker date="1465564357109" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
-            <marker date="1465564357109" expanded="true" signature="-1:-1" placeholder="DELETE from ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9023973">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2415#2416#0" expanded="false" />
-            <element signature="e#2442#2443#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1150,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24315068">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1158,7 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="94" column="0" selection-start-line="19" selection-start-column="4" selection-end-line="94" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,14 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1061643">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9550562">
-          <caret line="20" column="91" selection-start-line="20" selection-start-column="91" selection-end-line="20" selection-end-column="91" />
           <folding />
         </state>
       </provider>
@@ -1194,42 +1197,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57865167">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="16" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="1461" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/blog-single.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0446928">
           <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/blog-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1424581">
-          <caret line="3" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/portfolio-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923">
-          <caret line="23" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1257,22 +1228,122 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.009/theme/html/homepage/images/banner/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/views/user/registration.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.9614396">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/views/user/signin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3933162">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37349397">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#1477#1483#0" expanded="true" />
+            <marker date="1465671403118" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
+            <marker date="1465671403118" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
+            <marker date="1465671403118" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
+            <marker date="1465671403118" expanded="true" signature="-1:-1" placeholder="DELETE from ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62113404">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/java/com/javalab/marketing/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69638556">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a0792bb6/3e24f3dc-f210-4232-8acd-8fc200b7e54f/vezuvii..users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/CustomUserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.072289154">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.10964083">
-          <caret line="323" column="80" selection-start-line="323" selection-start-column="80" selection-end-line="323" selection-end-column="80" />
+        <state vertical-scroll-proportion="-2.0">
+          <caret line="708" column="47" selection-start-line="708" selection-start-column="47" selection-end-line="708" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81163436">
+          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
           <folding />
         </state>
       </provider>
