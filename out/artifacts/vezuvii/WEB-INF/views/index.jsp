@@ -1,3 +1,4 @@
+<%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -55,7 +56,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand">
                 <h4>Везувий</h4>
             </a>
         </div><!--Navbar header End-->
@@ -66,7 +67,12 @@
                 <li><a href="#portfolio" class="page-scroll" >Фото</a> </li>
                 <li><a href="#about" class="page-scroll">О казино</a> </li>
                 <li><a href="#team" class="page-scroll">Наши победители</a> </li>
-                <li><a href="#contact" class="page-scroll">Начать зарабатывать</a> </li>
+                <sec:authorize access="isAnonymous()">
+                    <li><a href="#contact" class="page-scroll">Начать зарабатывать</a> </li>
+                </sec:authorize>
+                <sec:authorize access="isAuthenticated()">
+                    <li><a href="/private" class="page-scroll">Личный кабинет</a> </li>
+                </sec:authorize>
             </ul>
         </nav>
     </div><!-- /.container-fluid -->
@@ -157,7 +163,12 @@
                         <i class="fa fa-lightbulb-o"></i>
                         <h5>Рулетка</h5>
                         <p>Испытай удачи и выграй кучу денег, у тебя точно получится!</p>
-                        <button class="btn btn-main">Играть!</button>
+                        <sec:authorize access="isAnonymous()">
+                            <a href="#contact" class="page-scroll">Играть!</a>
+                        </sec:authorize>
+                        <sec:authorize access="isAuthenticated()">
+                            <a href="/play" class="page-scroll">Играть!</a>
+                        </sec:authorize>
                     </div>
                 </div>
                 <div class="col-md-3 col-xs-12 col-sm-6">
@@ -165,7 +176,12 @@
                         <i class="fa fa-pencil"></i>
                         <h5>Двадцать одно</h5>
                         <p>Испытай удачи и выграй кучу денег, у тебя точно получится! </p>
-                        <button class="btn btn-main">Играть!</button>
+                        <sec:authorize access="isAnonymous()">
+                            <a href="#contact" class="page-scroll">Играть!</a>
+                        </sec:authorize>
+                        <sec:authorize access="isAuthenticated()">
+                            <a href="/play" class="page-scroll">Играть!</a>
+                        </sec:authorize>
                     </div>
                 </div> <!-- Col-md-4 Single_feature End -->
                 <div class="col-md-3 col-xs-12 col-sm-6">
@@ -173,7 +189,12 @@
                         <i class="fa fa-cog"></i>
                         <h5>Кости</h5>
                         <p>Испытай удачи и выграй кучу денег, у тебя точно получится!</p>
-                        <button class="btn btn-main">Играть!</button>
+                        <sec:authorize access="isAnonymous()">
+                            <a href="#contact" class="page-scroll" style="font: FontAwesome ; font-size: large">Играть!</a>
+                        </sec:authorize>
+                        <sec:authorize access="isAuthenticated()">
+                            <a href="/play" class="page-scroll" style="font: FontAwesome ; font-size: large">Играть!</a>
+                        </sec:authorize>
                     </div>
                 </div> <!-- Col-md-4 Single_feature End -->
                 <div class="col-md-3 col-xs-12 col-sm-6">
@@ -181,7 +202,12 @@
                         <i class="fa fa-desktop"></i>
                         <h5>BlackJack</h5>
                         <p>Испытай удачи и выграй кучу денег, у тебя точно получится! </p>
-                        <button class="btn btn-main">Играть!</button>
+                        <sec:authorize access="isAnonymous()">
+                            <a href="#contact" class="page-scroll" style="font: FontAwesome ; font-size: large">Играть!</a>
+                        </sec:authorize>
+                        <sec:authorize access="isAuthenticated()">
+                            <a href="/play" class="page-scroll" style="font: FontAwesome ; font-size: large">Играть!</a>
+                        </sec:authorize>
                     </div>
                 </div> <!-- Col-md-4 Single_feature End -->
                 <!-- <button class="btn btn-main"> Read More</button> -->
@@ -692,14 +718,14 @@
                     <div class="left_contact">
                         <form action="/register" method="post">
                             <div class="form-level">
-                                <input name="email" placeholder="Email" id="email" class="input-block" value="" type="email">
+                                <input size="50" name="email" id="email" value="" type="email" class="form-control" placeholder="Email">
                                 <span class="form-icon fa fa-envelope-o"></span>
                             </div>
                             <div class="form-level">
-                                <input name="password" placeholder="Пароль" id="password" class="input-block" value="" type="password">
-                                <span class="form-icon fa fa-phone"></span>
+                                <input size="50" name="password" id="password" value="" type="password" class="form-control" placeholder="Password">
+                                <span class="form-icon fa fa-lock"></span>
                             </div>
-                            <button  name="submit" id="submit" value="" type="submit" class="btn btn-main featured">Регистрация</button>
+                            <button  name="submit" id="submitreg" value="" type="submit" class="btn btn-main featured">Регистрация</button>
                         </form>
                     </div>
                 </div>
@@ -708,14 +734,14 @@
                     <div class="right_contact">
                         <form action="/j_spring_security_check" method="post">
                             <div class="form-level">
-                                <input size="50" name="j_username" id="j_username" value="" type="text" class="form-control" placeholder="Email">
+                                <input size="50" name="j_username" id="j_username" value="" type="email" class="form-control" placeholder="Email">
                                 <span class="form-icon fa fa-envelope-o"></span>
                             </div>
                             <div class="form-level">
                                 <input size="50" name="j_password" id="j_password" value="" type="password" class="form-control" placeholder="Password">
-                                <span class="form-icon fa fa-phone"></span>
+                                <span class="form-icon fa fa-lock"></span>
                             </div>
-                            <button class="btn btn-main featured">Войти</button>
+                            <button  name="submit" id="submitlog" value="" type="submit" class="btn btn-main featured">Войти</button>
                         </form>
                     </div>
                 </div>
@@ -767,32 +793,8 @@
 <script src="../../resources/js/jquery.singlePageNav.js"></script>
 <!-- Wow Animation -->
 <script type="js/javascript" src="../../resources/js/wow.min.js"></script>
-<!-- Google Map  Source -->
-<script type="text/javascript" src="../../resources/js/gmaps.js"></script>
 <!-- Custom js -->
 <script src="../../resources/js/custom.js"></script>
-<script>
-    // Google Map - with support of gmaps.js
-    var map;
-    map = new GMaps({
-        div: '#map',
-        lat: 23.709921,
-        lng: 90.407143,
-        scrollwheel: false,
-        panControl: false,
-        zoomControl: false,
-    });
-
-    map.addMarker({
-        lat: 23.709921,
-        lng: 90.407143,
-        title: 'Smilebuddy',
-        infoWindow: {
-            content: '<p> Smilebuddy, Dhanmondhi 27</p>'
-        },
-        icon: "../../resources/images/map1.png"
-    });
-</script>
 
 </body>
 </html>

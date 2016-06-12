@@ -17,22 +17,35 @@ public class MainController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String welcome(Model model){
-        System.out.println();
         return "index";
     }
 
     @RequestMapping(value = "/register", method = RequestMethod.POST)
-    public String register(Model model,@RequestParam String email, String password) throws SQLException, ClassNotFoundException {
+    public String register(Model model,@RequestParam String email,@RequestParam String password) throws SQLException, ClassNotFoundException {
         User user = new User(email,password);
         UserManager userManager = new UserManager();
         userManager.create(user);
         return "redirect:";
     }
 
-    @RequestMapping(value = "/hhh", method = RequestMethod.GET)
-    public String login(Model model){
-        User user = (User) SecurityContextHolder.getContext().getAuthentication().getPrincipal();
-        System.out.println(user.getNickname()+user.getPassword());
+    @RequestMapping(value = "/private", method = RequestMethod.GET)
+    public String privateZone(Model model){
+        model.addAttribute("balance",1234);
+        return "private";
+    }
+
+    @RequestMapping(value = "/private/moneyin", method = RequestMethod.POST)
+    public String moneyIn(Model model){
+        return "redirect:";
+    }
+
+    @RequestMapping(value = "/private/moneyout", method = RequestMethod.POST)
+    public String moneyOut(Model model){
+        return "redirect:";
+    }
+
+    @RequestMapping(value = "/private/writetoadmin", method = RequestMethod.POST)
+    public String writeToAdmin(Model model){
         return "redirect:";
     }
 
