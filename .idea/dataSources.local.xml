@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="MySQL - vezuvii@localhost" uuid="3e24f3dc-f210-4232-8acd-8fc200b7e54f">
-      <secret-storage>master_key</secret-storage>
-      <user-name>root</user-name>
-      <schema-pattern>vezuvii.*</schema-pattern>
-      <default-schemas>vezuvii.*</default-schemas>
-    </data-source>
-    <data-source name="MySQL - dbfordb@localhost" uuid="3e82ac3e-3a1c-4d36-814e-51e0f4171ebd">
-      <secret-storage>master_key</secret-storage>
-      <user-name>root</user-name>
-      <schema-pattern>dbfordb.*</schema-pattern>
-      <default-schemas>dbfordb.*</default-schemas>
-    </data-source>
+    <data-source name="MySQL - vezuvii@localhost" uuid="3e24f3dc-f210-4232-8acd-8fc200b7e54f" />
+    <data-source name="MySQL - dbfordb@localhost" uuid="3e82ac3e-3a1c-4d36-814e-51e0f4171ebd" />
   </component>
 </project>

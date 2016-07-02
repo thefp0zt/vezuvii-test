@@ -49,4 +49,9 @@ public class MainController {
         return "redirect:";
     }
 
+    /*
+    Упростить весь интерфейс
+
+     */
+
 }

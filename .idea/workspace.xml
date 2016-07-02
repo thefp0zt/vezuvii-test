@@ -1,223 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24fc2bbe-7384-479f-aa9d-16537a7dedca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/private.jsp" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\controller\CustomLogoutSuccessHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\controller\CustomUserDetails.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\controller\MainController.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\dao\UserManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\models\User$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\models\User.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\classes\com\vezuvii\webapp\services\ConnectionPool.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\decorators.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\aspectjrt-1.6.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\c3p0-0.9.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\javassist-3.7.ga.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\javax.inject-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\jcl-over-slf4j-1.5.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\jsp-api-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\junit-4.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\log4j-1.2.15.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\mysql-connector-java-5.1.37.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\sitemesh-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\slf4j-api-1.5.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\slf4j-log4j12-1.5.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-aop-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-asm-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-beans-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-context-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-context-support-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-core-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-expression-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-jdbc-3.0.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-security-acl-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-security-config-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-security-core-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-security-crypto-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-security-taglibs-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-security-web-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-tx-3.0.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-web-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\lib\spring-webmvc-3.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\spring\appServlet\servlet-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\spring\application-security.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\spring\root-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\views\blog-single.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\views\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\views\protfolio-single.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\animate.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\custom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\hover-min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\hover.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\jquery.bxslider.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\onepage-scroll.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\prettyPhoto.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\red.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\about\browse.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\about\graphics.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\about\web1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\back-top.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\l5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\overaly.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\p10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\p5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\banner\v-overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\bg\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\bg\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\blog\pic9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\clients\client8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\color01.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\controls.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\logo3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\map1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\portfolio\p7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_rounded\btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_rounded\btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_rounded\contentPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_rounded\default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_rounded\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_rounded\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_square\btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_square\btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_square\contentPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_square\default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_square\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\dark_square\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\default\sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\contentPatternBottom.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\contentPatternLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\contentPatternRight.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\contentPatternTop.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\facebook\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_rounded\btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_rounded\btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_rounded\default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_rounded\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_rounded\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_square\btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_square\btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_square\default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_square\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\prettyPhoto\light_square\sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\b6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\p10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\slider\p5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\team\pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\team\pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\team\pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\team\pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\team\pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\images\testimonial2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\custom.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\imagelightbox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.bxslider.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.bxslider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.scrollTo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\jquery.singlePageNav.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\smooth-scroll.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\vendor\jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\vendor\modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\js\wow.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\videos\gdrive.mp4" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\videos\gdrive.ogg" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\out\artifacts\vezuvii\resources\videos\gdrive.webm" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\WEB-INF\views\blog-single.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\java\IdeaProjects\vezuvii\webapp\src\main\web\WEB-INF\views\protfolio-single.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/controller/MainController.class" afterPath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/controller/MainController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/models/User.class" afterPath="$PROJECT_DIR$/webapp/target/classes/com/vezuvii/webapp/models/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" afterPath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java" afterPath="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp" afterPath="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="24fc2bbe-7384-479f-aa9d-16537a7dedca" name="Default" comment="" />
     <ignored path="com.vezuvii.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -235,111 +19,18 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DatabaseView">
-    <option name="FLATTEN" value="false" />
-    <option name="GROUP_BY_TYPE" value="true" />
-    <option name="SORT_CHILDREN" value="false" />
-    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="MySQL - vezuvii@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="vezuvii" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="MySQL - dbfordb@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="dbfordb" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="com.vezuvii" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="private.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/private.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.06506024">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1459#1460#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1613#1614#0" expanded="true" />
-                <element signature="e#1741#1742#0" expanded="true" />
-                <element signature="e#1775#1776#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="75" column="97" selection-start-line="75" selection-start-column="97" selection-end-line="75" selection-end-column="97" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1477#1483#0" expanded="true" />
-                <marker date="1465671403118" expanded="true" signature="758:947" placeholder="select * fro..users..." />
-                <marker date="1465671403118" expanded="true" signature="1580:1692" placeholder="select * fro..users..." />
-                <marker date="1465671403118" expanded="true" signature="2970:3159" placeholder="select * fro..users..." />
-                <marker date="1465671403118" expanded="true" signature="3615:3646" placeholder="DELETE from ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="28.115385">
-              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -356,9 +47,9 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/Desktop/test" value="8610319189950" />
-        <entry key="$USER_HOME$/IdeaProjects/darlGame" value="10046152301770" />
         <entry key="$PROJECT_DIR$/../darlGame" value="10046152301770" />
         <entry key="$PROJECT_DIR$/../springtest" value="1455572545725" />
+        <entry key="$USER_HOME$/IdeaProjects/darlGame" value="10046152301770" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -382,14 +73,16 @@
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml" />
         <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp" />
-        <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/private.jsp" />
+        <option value="$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -401,12 +94,12 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -435,9 +128,13 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -452,7 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
+              <option name="myItemId" value="vezuvii-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -462,7 +159,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
+              <option name="myItemId" value="vezuvii-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -476,29 +173,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
+              <option name="myItemId" value="vezuvii-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -509,18 +184,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -528,7 +191,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
+              <option name="myItemId" value="vezuvii-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -551,10 +214,6 @@
               <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -562,41 +221,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
+              <option name="myItemId" value="vezuvii-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -622,7 +247,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
+              <option name="myItemId" value="vezuvii-test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -635,149 +260,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vezuvii" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -792,6 +279,8 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Tomcat Server.TomCat">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
@@ -864,22 +353,21 @@
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -889,18 +377,15 @@
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -923,6 +408,65 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -1010,13 +554,12 @@
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
       <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1040,12 +583,74 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="com.vezuvii" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1090,12 +695,48 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -1181,7 +822,9 @@
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.TomCat" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1190,49 +833,58 @@
       <changelist id="24fc2bbe-7384-479f-aa9d-16537a7dedca" name="Default" comment="" />
       <created>1465560087217</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1465560087217</updated>
       <workItem from="1465560090722" duration="11176000" />
       <workItem from="1465599635801" duration="10593000" />
       <workItem from="1465714428732" duration="4514000" />
       <workItem from="1465760021582" duration="5423000" />
+      <workItem from="1465934606946" duration="508000" />
+      <workItem from="1465977363360" duration="21000" />
+      <workItem from="1467271904775" duration="759000" />
+      <workItem from="1467440144345" duration="279000" />
+      <workItem from="1467440901571" duration="1017000" />
+      <workItem from="1467442748763" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31706000" />
+    <option name="totallyTimeSpent" value="34464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2761438" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24659607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39542484" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2749591" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24659607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39542484" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1257,78 +909,28 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../marketing-group/web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6908127">
-          <caret line="179" column="21" selection-start-line="18" selection-start-column="4" selection-end-line="179" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/CustomLogoutSuccessHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3e24f3dc-f210-4232-8acd-8fc200b7e54f/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../marketing-group/dao/src/main/java/com/javalab/marketing/dao/UserManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="143" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../marketing-group/services/src/main/java/com/javalab/marketing/services/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../marketing-group/dao/src/main/java/com/javalab/marketing/dao/UserManager.java" />
+    <entry file="file://$PROJECT_DIR$/../marketing-group/services/src/main/java/com/javalab/marketing/services/ConnectionPool.java" />
     <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/services/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29109588">
+        <state relative-caret-position="0">
           <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../marketing-group/models/src/main/java/com/javalab/marketing/models/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46575344">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../marketing-group/web/src/main/java/com/javalab/marketing/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24315068">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="0" selection-start-line="19" selection-start-column="4" selection-end-line="94" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../marketing-group/models/src/main/java/com/javalab/marketing/models/User.java" />
+    <entry file="file://$PROJECT_DIR$/../marketing-group/web/src/main/java/com/javalab/marketing/controller/MainController.java" />
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1061643">
+        <state relative-caret-position="0">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding />
         </state>
@@ -1336,17 +938,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/root-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64606744">
+        <state relative-caret-position="0">
           <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/appServlet/servlet-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1365,297 +958,210 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.009/theme/html/homepage/images/banner/banner.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/resources/images/portfolio/p1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/views/user/registration.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9614396">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/views/user/signin.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3933162">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="40" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/java/com/javalab/marketing/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69638556">
-          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/views/user/registration.jsp" />
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/web/WEB-INF/views/user/signin.jsp" />
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/web/src/main/java/com/javalab/marketing/controller/MainController.java" />
     <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.703704">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../marketing-group/web/src/main/web/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="31.384615">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../marketing-group/web/src/main/web/WEB-INF/views/index.jsp" />
     <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/CustomUserDetails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCrypt.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39583334">
+        <state relative-caret-position="0">
           <caret line="332" column="0" selection-start-line="332" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2222223">
+        <state relative-caret-position="0">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2222223">
+        <state relative-caret-position="0">
           <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.5.10/jcl-over-slf4j-1.5.10.jar!/org/apache/commons/logging/impl/SLF4JLocationAwareLog.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.5.10/slf4j-log4j12-1.5.10.jar!/org/slf4j/impl/Log4jLoggerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.15/log4j-1.2.15.jar!/org/apache/log4j/Category.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36190477">
+        <state relative-caret-position="0">
           <caret line="283" column="0" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodExceptionResolver.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="487" column="0" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk/src.zip!/java/lang/ClassLoader.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.0.RELEASE/spring-web-3.1.0.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888">
+        <state relative-caret-position="0">
           <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2222223">
+        <state relative-caret-position="0">
           <caret line="415" column="0" selection-start-line="415" selection-start-column="0" selection-end-line="415" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar!/com/opensymphony/sitemesh/webapp/SiteMeshFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2222223">
+        <state relative-caret-position="0">
           <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.1.0.RELEASE/spring-security-web-3.1.0.RELEASE.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2222223">
+        <state relative-caret-position="0">
           <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.1.0.RELEASE/spring-security-web-3.1.0.RELEASE.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2222223">
+        <state relative-caret-position="0">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888">
+        <state relative-caret-position="0">
           <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3e82ac3e-3a1c-4d36-814e-51e0f4171ebd/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/a0792bb6/3e82ac3e-3a1c-4d36-814e-51e0f4171ebd/dbfordb..users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a0792bb6/3e24f3dc-f210-4232-8acd-8fc200b7e54f/vezuvii..users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/a0792bb6/3e82ac3e-3a1c-4d36-814e-51e0f4171ebd/dbfordb..users" />
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/application-security.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.693299">
+        <state relative-caret-position="0">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../marketing-group/dao/src/main/java/com/javalab/marketing/dao/UserManager.java">
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/dao/src/main/java/com/javalab/marketing/dao/UserManager.java" />
+    <entry file="file://$PROJECT_DIR$/../../marketing-group/models/src/main/java/com/javalab/marketing/models/User.java" />
+    <entry file="dbDummy://dbtable:/a0792bb6/3e24f3dc-f210-4232-8acd-8fc200b7e54f/vezuvii..users" />
+    <entry file="file://$PROJECT_DIR$/com.vezuvii.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8192771">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../marketing-group/models/src/main/java/com/javalab/marketing/models/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="97" selection-start-line="75" selection-start-column="97" selection-end-line="75" selection-end-column="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1477#1483#0" expanded="true" />
-            <marker date="1465671403118" expanded="true" signature="758:947" placeholder="select * fro..users..." />
-            <marker date="1465671403118" expanded="true" signature="1580:1692" placeholder="select * fro..users..." />
-            <marker date="1465671403118" expanded="true" signature="2970:3159" placeholder="select * fro..users..." />
-            <marker date="1465671403118" expanded="true" signature="3615:3646" placeholder="DELETE from ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="28.115385">
-          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/private.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
+        <state relative-caret-position="17">
           <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.06506024">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1459#1460#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1613#1614#0" expanded="true" />
-            <element signature="e#1741#1742#0" expanded="true" />
-            <element signature="e#1775#1776#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/dao/UserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="75" column="97" selection-start-line="75" selection-start-column="97" selection-end-line="75" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/com/vezuvii/webapp/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/spring/appServlet/servlet-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/web/WEB-INF/applicationContext.xml" />
+    <entry file="dbDummy://dbtable:/a0792bb6/3e24f3dc-f210-4232-8acd-8fc200b7e54f/vezuvii.users" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
