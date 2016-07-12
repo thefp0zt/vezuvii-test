@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2017239966">
+  <component name="DataSourceManagerImpl" format="xml" hash="614454148">
     <data-source source="LOCAL" name="MySQL - vezuvii@localhost" uuid="3e24f3dc-f210-4232-8acd-8fc200b7e54f">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
@@ -13,7 +13,6 @@
         <property name="characterSetResults" value="utf8" />
         <property name="yearIsDateType" value="false" />
       </driver-properties>
-      <libraries />
     </data-source>
     <data-source source="LOCAL" name="MySQL - dbfordb@localhost" uuid="3e82ac3e-3a1c-4d36-814e-51e0f4171ebd">
       <driver-ref>mysql</driver-ref>
@@ -27,7 +26,6 @@
         <property name="characterSetResults" value="utf8" />
         <property name="yearIsDateType" value="false" />
       </driver-properties>
-      <libraries />
     </data-source>
   </component>
 </project>
